@@ -1,1 +1,0 @@
-# rabbitmq-ruby-demo
